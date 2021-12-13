@@ -3,3 +3,4 @@
 package-lock.json
 client_secret.json
 dist
+process.env
